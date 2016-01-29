@@ -35,7 +35,7 @@ a Demo to use the BLE library:https://github.com/TitleZWC/BlueToothLowEnergyLibr
 
 关于蓝牙ble 的使用，可以参照[BlueToothLowEnergyLibrary][1]  中的说明及项目文件BLE APIs.doc了解更多<br>
 
-https://github.com/TitleZWC/BLEDemo/blob/master/pic/0F_QU297%25BF%5BSI81)%609IX)Y.png?raw=true
+
 
 
  [1]:https://github.com/TitleZWC/BlueToothLowEnergyLibrary.git
